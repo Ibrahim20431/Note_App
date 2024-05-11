@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AddNote_Activity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="8dp">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="238dp"
+            android:layout_height="57dp"
+            android:layout_margin="16dp"
+            android:layout_weight="1"
+            android:contentDescription="@string/add_note"
+            android:gravity="center_vertical"
+            android:padding="8dp"
+            android:text="@string/add_note"
+            android:textColor="@color/chocolate"
+            android:textSize="34sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/img_done"
+            android:layout_width="wrap_content"
+            android:layout_height="51dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="16dp"
+            android:layout_weight="1"
+            android:contentDescription="@string/add_note"
+            android:src="@drawable/done_icon" />
+
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/edtxt_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="16dp"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/orange_border"
+        android:ems="10"
+        android:hint="@string/add_title_hint"
+        android:inputType="text"
+        android:padding="12dp"
+        android:textSize="25sp"
+        android:textColor="@color/black"
+        android:elevation="25dp"/>
+
+    <EditText
+        android:id="@+id/edtxt_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginHorizontal="16dp"
+        android:layout_marginBottom="30dp"
+        android:background="@drawable/orange_border"
+        android:ems="10"
+        android:gravity="start"
+        android:hint="@string/add_content_hint"
+        android:inputType="textMultiLine"
+        android:padding="12dp"
+        android:textSize="22sp"
+        android:textColor="@color/black"
+        android:elevation="25dp"/>
+
+
+</LinearLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تدوين ملاحظة</string>
+    <string name="add_note">إضافة ملاحظة</string>
+    <string name="add_title_hint">ادخل العنوان..</string>
+    <string name="add_content_hint">ادخل الموضوع...</string>
+    <string name="notes">الملاحظات</string>
+    <string name="update_note">تعديل الملاحظة</string>
+</resources>
