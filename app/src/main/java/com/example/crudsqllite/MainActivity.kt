@@ -3,7 +3,6 @@ package com.example.crudsqllite
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.ImageView
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.crudsqllite.databinding.ActivityMainBinding
 import com.example.crudsqllite.model.NoteAdapter
@@ -22,9 +21,9 @@ class MainActivity : AppCompatActivity() {
         floatingClick()
 
         db = NoteDBHelper(this)
-        notesAdapter = NoteAdapter(db.getAllNotes(), this)
+        notesAdapter = NoteAdapter(db.getAllNotes(),this)
 
-        binding.recyclerView.layoutManager = LinearLayoutManager(this)
+        binding.recyclerView.layoutManager = LinearLayoutManager(this,LinearLayoutManager.VERTICAL,false)
         binding.recyclerView.adapter = notesAdapter
     }
 

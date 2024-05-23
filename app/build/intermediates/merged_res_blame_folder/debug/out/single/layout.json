@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-mergeDebugResources-30:\\layout\\note_item.xml",
+        "source": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-main-33:\\layout\\note_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-mergeDebugResources-30:\\layout\\activity_add_note.xml",
+        "source": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-main-33:\\layout\\activity_add_note.xml"
+    },
+    {
+        "merged": "com.example.crudsqllite.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.example.crudsqllite.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-mergeDebugResources-30:\\layout\\activity_update.xml",
+        "source": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-main-33:\\layout\\activity_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-main-33:\\layout\\activity_main.xml"
+    }
+]

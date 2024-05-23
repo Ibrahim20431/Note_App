@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-merged_res-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-merged_res-31:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-main-33:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-merged_res-31:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-main-33:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-merged_res-31:\\drawable_delete_icon.xml.flat",
+        "source": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-main-33:\\drawable\\delete_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-merged_res-31:\\drawable_edit_icon.xml.flat",
+        "source": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-main-33:\\drawable\\edit_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-merged_res-31:\\layout_activity_update.xml.flat",
+        "source": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-main-33:\\layout\\activity_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-merged_res-31:\\drawable_done_icon.xml.flat",
+        "source": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-main-33:\\drawable\\done_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-merged_res-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-merged_res-31:\\drawable_add_icon.xml.flat",
+        "source": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-main-33:\\drawable\\add_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-merged_res-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-merged_res-31:\\drawable_edit.png.flat",
+        "source": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-main-33:\\drawable\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-merged_res-31:\\layout_note_item.xml.flat",
+        "source": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-main-33:\\layout\\note_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-merged_res-31:\\layout_activity_add_note.xml.flat",
+        "source": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-main-33:\\layout\\activity_add_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-merged_res-31:\\drawable_orange_border.xml.flat",
+        "source": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-main-33:\\drawable\\orange_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.crudsqllite.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.example.crudsqllite.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-main-33:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-merged_res-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-merged_res-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-merged_res-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\IIslamsoft\\.gradle\\daemon\\8.2\\com.example.crudsqllite.app-main-33:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    }
+]
